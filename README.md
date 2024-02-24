@@ -32,4 +32,4 @@
 
 - <a href="https://www.germancubeassociation.de/" target="_blank"> Founding member of the German Cube Association e.V. </a>
 
-- <a href="https://cuboss.com/?coupon-code=HugaCuba" target="_blank"> Save 5% on cuboss, support HugaCuba at the same time. </a>
+- <a href="https://cuboss.com/affiliate/?affiliate=hugacuba&r=hugacuba" target="_blank"> Save 5% on cuboss, support HugaCuba at the same time. </a>
