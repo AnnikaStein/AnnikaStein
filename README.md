@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-irig.vercel.app/api?username=AnnikaStein&count_private=true&include_all_commits=true&show_icons=true" alt="annikastein" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annikastein&" alt="annikastein" /></p>
+<p><img src="https://github-readme-streak-stats.herokuapp.com?user=AnnikaStein" alt="GitHub Streak" /></p>
 
 <h3 align="left">More links:</h3>
 - <a href="https://cuboss.com/affiliate/?affiliate=hugacuba&r=hugacuba" target="_blank"> Save 5% on cuboss, support HugaCuba at the same time. </a>
